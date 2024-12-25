@@ -75,7 +75,7 @@ h2 {
 
 .list-container {
   display: flex; 
-  justify-content: start;
+  justify-content: space-evenly;
   width: 90rem;
 }
 
