@@ -83,7 +83,8 @@ function App() {
         </div>
         <div className="love">
           <p className="p1">
-            Normalizing burying boys or sending them to another planet
+            Normalizing burying boys or sending them to another planet 'i had to
+            do it twice'
           </p>
           <img className="img1" src={stupid} alt="" />
         </div>
@@ -107,7 +108,10 @@ function App() {
           im always hugging you and holding your hands.
         </h2>
         <h2 className="h2222">Quick note</h2>
-        <h2 className="h222">i love your lovely voice so so so much.</h2>
+        <h2 className="h222">
+          i love your lovely voice so so so much, and i miss you
+          mmmaaarrrrraaaaaahhh
+        </h2>
       </div>
     </>
   );
