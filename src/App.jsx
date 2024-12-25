@@ -84,7 +84,7 @@ function App() {
         <div className="love">
           <p className="p1">
             Normalizing burying boys or sending them to another planet 'i had to
-            do it twice'
+            but it twice'
           </p>
           <img className="img1" src={stupid} alt="" />
         </div>
