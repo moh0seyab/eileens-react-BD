@@ -91,21 +91,22 @@ function App() {
         <h2>Quick reminder</h2>
         <div className="love">
           <p className="p1">
-            Go easy on your self, you are the reason the sun shines and the most
-            beautiful girl on the world, you are so so so so cute&lt;3
+            Go easy on your self, you are the reason the sun shines and because
+            you are the most beautiful girl on the world, you are so so so so
+            cute&lt;3
           </p>
           <img className="img1" src={sunShine} alt="" />
         </div>
         <h2 className="h">The end</h2>
         <h2 className="h22">
-          i know every beautiful thing must have an end but if there any thing
-          that i wish for in this life is that you never have an end and that
-          you stay in my life for ever, there is no one in this life like you,
-          you are one of a kind, i wish you nothing but happiness and i promise
-          that i will do any thing to see you smile and to hear your most
-          precious and lovely laugh, there so much more that i want to tell you
-          but we both know that i cant, remember at any time you feel down that
-          im always hugging you and holding your hands.
+          i know every beautiful thing must have an end but if there is any
+          thing that i wish for in this life is that you never have an end and
+          that you stay in my life for ever, there is no one in this life like
+          you, you are one of a kind, i wish you nothing but happiness and i
+          promise that i will do any thing to see you smile and to hear your
+          most precious and lovely laugh, there is so much more that i want to
+          tell you but we both know that i cant, remember at any time you feel
+          down that im always hugging you and holding your hands.
         </h2>
         <h2 className="h2222">Quick note</h2>
         <h2 className="h222">
