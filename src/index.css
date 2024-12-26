@@ -7,6 +7,16 @@
   
 }
 
+::-webkit-scrollbar {
+  background-color: transparent;
+  width: 1.2rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(rgb(255, 211, 218),rgb(171, 171, 255),  rgb(201, 85, 201));
+  border-radius: 10rem;
+}
+
 body {
   width: 100%;
   position: relative;
